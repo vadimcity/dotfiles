@@ -1,1 +1,1 @@
-#dotfile managment with stow.
+# dotfile managment with stow.
