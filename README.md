@@ -1,7 +1,7 @@
 =======
 # Dotfile managment with stow
 
-Due to how stow work, .config directory structure must be as such:
+Due to how stow work, files located in the .config directory should be structured as such:
 ```
 .dotfiles
 ├── alacritty
